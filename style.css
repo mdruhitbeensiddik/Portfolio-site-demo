@@ -162,3 +162,65 @@ main {
     display: flex;
     justify-content: space-between;
 }
+
+
+/* resume section */
+
+#section-resume-title {
+    margin: 130px;
+}
+
+.qualification-part {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.education-part {
+    margin-right: 50px;
+    padding: 50px;
+}
+
+.education-details>h5 {
+    margin: 0;
+    padding: 0;
+}
+
+.education-details>p {
+    margin: 0;
+}
+
+.middle-button {
+    text-align: center;
+}
+
+
+/* footer sytle */
+
+footer {
+    display: flex;
+    background: #FFF8F3;
+    padding: 130px 200px;
+}
+
+.footer-column {
+    width: 50%;
+}
+
+.social-links>a {
+    margin-right: 20px;
+}
+
+.contact input,
+textarea {
+    display: block;
+    margin-bottom: 25px;
+    border: none;
+    padding: 18px 35px;
+    border-radius: 5px;
+}
+
+.contact {
+    padding-left: 125px;
+
+}
