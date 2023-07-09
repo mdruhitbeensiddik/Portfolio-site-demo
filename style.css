@@ -141,3 +141,24 @@ main {
 .about-info>p {
     margin: 0px;
 }
+
+#section-description {
+    padding: 30px 150px;
+    margin-top: 0px;
+}
+
+#Section-head {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.skill-set {
+    width: 200px;
+    padding: 30px;
+    box-shadow: 3px 3px 10px #6d6d6ddb;
+}
+
+.skill-set-container {
+    display: flex;
+    justify-content: space-between;
+}
